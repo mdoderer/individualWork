@@ -7,3 +7,5 @@
 * student repositories
 * github classroom 
 * permissions
+* exercises
+* etc.
